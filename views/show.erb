@@ -1,1 +1,17 @@
 <h1>Success</h1>
+<h2>Original picture</h2>
+<img src="/uploads/<%= image %>">
+<div><%= image_2 %></div>
+<h2>New picture</h2>
+<img src="/uploads/newwalls_<%= image %>">
+
+
+<div class="row">
+  <div class="small-10 columns">
+    <div class="range-slider" data-slider data-options="step: 5; start: 1; end: 40;">
+      <span class="range-slider-handle" role="slider" tabindex="0"></span>
+      <span class="range-slider-active-segment"></span>
+      <input type="hidden">
+    </div>
+  </div>
+</div>
