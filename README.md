@@ -1,7 +1,9 @@
-### Let's paint the walls
+#Let's paint the walls
 
 ## Technical Specifications
+
   -Sinatra
+  
   -RMagick
   
 ##  Description
