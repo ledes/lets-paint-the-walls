@@ -1,10 +1,10 @@
 ### Let's paint the walls
 
-#### Technical Specifications
+## Technical Specifications
   -Sinatra
   -RMagick
   
-###  Description
+##  Description
 
 Sinatra app designed to change the color of the walls from an uploaded picture and a pair of given coordinates. Built in Ruby with RMagick and Sinatra.
 
@@ -12,7 +12,7 @@ I often find myself in need of painting walls at home and wishing I could see a 
 After searching for an app that fit this description, and coming up short, I realized I needed to take on this project.
 It's been so interesting to work on and I'd like to continue to improve it and make it fully functional for any user
 
-### App expansion
+## App expansion
 
 In order to improve the app, the following features will be added:
 
@@ -34,10 +34,11 @@ In order to improve the app, the following features will be added:
 - Deploy with heroku
 
 
-### Dream features
+## Dream features
 
--> Build social media to share each user new walls, and users are able to vote them.
--> Build IOS app, making easer for the user to take the a picture and start using the app (RubyMotion/Swift)
+- Build social media to share each user new walls, and users are able to vote them.
+
+- Build IOS app, making easer for the user to take the a picture and start using the app (RubyMotion/Swift)
 
 
 
